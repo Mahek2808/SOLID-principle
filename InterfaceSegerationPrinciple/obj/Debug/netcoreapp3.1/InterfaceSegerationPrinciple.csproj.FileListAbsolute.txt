@@ -1,0 +1,14 @@
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\InterfaceSegerationPrinciple\bin\Debug\netcoreapp3.1\InterfaceSegerationPrinciple.exe
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\InterfaceSegerationPrinciple\bin\Debug\netcoreapp3.1\InterfaceSegerationPrinciple.deps.json
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\InterfaceSegerationPrinciple\bin\Debug\netcoreapp3.1\InterfaceSegerationPrinciple.runtimeconfig.json
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\InterfaceSegerationPrinciple\bin\Debug\netcoreapp3.1\InterfaceSegerationPrinciple.runtimeconfig.dev.json
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\InterfaceSegerationPrinciple\bin\Debug\netcoreapp3.1\InterfaceSegerationPrinciple.dll
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\InterfaceSegerationPrinciple\bin\Debug\netcoreapp3.1\InterfaceSegerationPrinciple.pdb
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\InterfaceSegerationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegerationPrinciple.csproj.AssemblyReference.cache
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\InterfaceSegerationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegerationPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\InterfaceSegerationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegerationPrinciple.AssemblyInfoInputs.cache
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\InterfaceSegerationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegerationPrinciple.AssemblyInfo.cs
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\InterfaceSegerationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegerationPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\InterfaceSegerationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegerationPrinciple.dll
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\InterfaceSegerationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegerationPrinciple.pdb
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\InterfaceSegerationPrinciple\obj\Debug\netcoreapp3.1\InterfaceSegerationPrinciple.genruntimeconfig.cache

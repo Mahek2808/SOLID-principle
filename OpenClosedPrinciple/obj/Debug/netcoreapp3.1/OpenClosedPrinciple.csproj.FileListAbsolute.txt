@@ -1,0 +1,13 @@
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.exe
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.deps.json
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.runtimeconfig.json
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.runtimeconfig.dev.json
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.dll
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\OpenClosedPrinciple\bin\Debug\netcoreapp3.1\OpenClosedPrinciple.pdb
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.AssemblyInfoInputs.cache
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.AssemblyInfo.cs
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.dll
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.pdb
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\OpenClosedPrinciple\obj\Debug\netcoreapp3.1\OpenClosedPrinciple.genruntimeconfig.cache

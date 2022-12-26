@@ -1,0 +1,27 @@
+C:\Users\mahek\PROJECTS\SOLID Principle\LiskowPrinciple\SingleResponsibilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.exe
+C:\Users\mahek\PROJECTS\SOLID Principle\LiskowPrinciple\SingleResponsibilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.deps.json
+C:\Users\mahek\PROJECTS\SOLID Principle\LiskowPrinciple\SingleResponsibilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.runtimeconfig.json
+C:\Users\mahek\PROJECTS\SOLID Principle\LiskowPrinciple\SingleResponsibilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.runtimeconfig.dev.json
+C:\Users\mahek\PROJECTS\SOLID Principle\LiskowPrinciple\SingleResponsibilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.dll
+C:\Users\mahek\PROJECTS\SOLID Principle\LiskowPrinciple\SingleResponsibilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.pdb
+C:\Users\mahek\PROJECTS\SOLID Principle\LiskowPrinciple\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahek\PROJECTS\SOLID Principle\LiskowPrinciple\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.AssemblyInfoInputs.cache
+C:\Users\mahek\PROJECTS\SOLID Principle\LiskowPrinciple\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.AssemblyInfo.cs
+C:\Users\mahek\PROJECTS\SOLID Principle\LiskowPrinciple\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\mahek\PROJECTS\SOLID Principle\LiskowPrinciple\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.dll
+C:\Users\mahek\PROJECTS\SOLID Principle\LiskowPrinciple\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.pdb
+C:\Users\mahek\PROJECTS\SOLID Principle\LiskowPrinciple\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.genruntimeconfig.cache
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\SingleResponsibilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.exe
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\SingleResponsibilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.deps.json
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\SingleResponsibilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.runtimeconfig.json
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\SingleResponsibilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.runtimeconfig.dev.json
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\SingleResponsibilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.dll
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\SingleResponsibilityPrinciple\bin\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.pdb
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.csproj.AssemblyReference.cache
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.AssemblyInfoInputs.cache
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.AssemblyInfo.cs
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.dll
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.pdb
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\SingleResponsibilityPrinciple\obj\Debug\netcoreapp3.1\SingleResponsibilityPrinciple.genruntimeconfig.cache

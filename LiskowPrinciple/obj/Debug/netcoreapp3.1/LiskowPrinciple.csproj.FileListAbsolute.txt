@@ -1,0 +1,27 @@
+C:\Users\mahek\PROJECTS\SOLID Principle\LiskowPrinciple\LiskowPrinciple\bin\Debug\netcoreapp3.1\LiskowPrinciple.exe
+C:\Users\mahek\PROJECTS\SOLID Principle\LiskowPrinciple\LiskowPrinciple\bin\Debug\netcoreapp3.1\LiskowPrinciple.deps.json
+C:\Users\mahek\PROJECTS\SOLID Principle\LiskowPrinciple\LiskowPrinciple\bin\Debug\netcoreapp3.1\LiskowPrinciple.runtimeconfig.json
+C:\Users\mahek\PROJECTS\SOLID Principle\LiskowPrinciple\LiskowPrinciple\bin\Debug\netcoreapp3.1\LiskowPrinciple.runtimeconfig.dev.json
+C:\Users\mahek\PROJECTS\SOLID Principle\LiskowPrinciple\LiskowPrinciple\bin\Debug\netcoreapp3.1\LiskowPrinciple.dll
+C:\Users\mahek\PROJECTS\SOLID Principle\LiskowPrinciple\LiskowPrinciple\bin\Debug\netcoreapp3.1\LiskowPrinciple.pdb
+C:\Users\mahek\PROJECTS\SOLID Principle\LiskowPrinciple\LiskowPrinciple\obj\Debug\netcoreapp3.1\LiskowPrinciple.csproj.AssemblyReference.cache
+C:\Users\mahek\PROJECTS\SOLID Principle\LiskowPrinciple\LiskowPrinciple\obj\Debug\netcoreapp3.1\LiskowPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahek\PROJECTS\SOLID Principle\LiskowPrinciple\LiskowPrinciple\obj\Debug\netcoreapp3.1\LiskowPrinciple.AssemblyInfoInputs.cache
+C:\Users\mahek\PROJECTS\SOLID Principle\LiskowPrinciple\LiskowPrinciple\obj\Debug\netcoreapp3.1\LiskowPrinciple.AssemblyInfo.cs
+C:\Users\mahek\PROJECTS\SOLID Principle\LiskowPrinciple\LiskowPrinciple\obj\Debug\netcoreapp3.1\LiskowPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\mahek\PROJECTS\SOLID Principle\LiskowPrinciple\LiskowPrinciple\obj\Debug\netcoreapp3.1\LiskowPrinciple.dll
+C:\Users\mahek\PROJECTS\SOLID Principle\LiskowPrinciple\LiskowPrinciple\obj\Debug\netcoreapp3.1\LiskowPrinciple.pdb
+C:\Users\mahek\PROJECTS\SOLID Principle\LiskowPrinciple\LiskowPrinciple\obj\Debug\netcoreapp3.1\LiskowPrinciple.genruntimeconfig.cache
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\LiskowPrinciple\bin\Debug\netcoreapp3.1\LiskowPrinciple.exe
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\LiskowPrinciple\bin\Debug\netcoreapp3.1\LiskowPrinciple.deps.json
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\LiskowPrinciple\bin\Debug\netcoreapp3.1\LiskowPrinciple.runtimeconfig.json
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\LiskowPrinciple\bin\Debug\netcoreapp3.1\LiskowPrinciple.runtimeconfig.dev.json
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\LiskowPrinciple\bin\Debug\netcoreapp3.1\LiskowPrinciple.dll
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\LiskowPrinciple\bin\Debug\netcoreapp3.1\LiskowPrinciple.pdb
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\LiskowPrinciple\obj\Debug\netcoreapp3.1\LiskowPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\LiskowPrinciple\obj\Debug\netcoreapp3.1\LiskowPrinciple.AssemblyInfoInputs.cache
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\LiskowPrinciple\obj\Debug\netcoreapp3.1\LiskowPrinciple.AssemblyInfo.cs
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\LiskowPrinciple\obj\Debug\netcoreapp3.1\LiskowPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\LiskowPrinciple\obj\Debug\netcoreapp3.1\LiskowPrinciple.dll
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\LiskowPrinciple\obj\Debug\netcoreapp3.1\LiskowPrinciple.pdb
+C:\Users\mahek\OneDrive - Simform Solutions Pvt. Ltd\Desktop\SOLID principles\LiskowPrinciple\obj\Debug\netcoreapp3.1\LiskowPrinciple.genruntimeconfig.cache
